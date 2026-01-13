@@ -11,40 +11,62 @@ Background in **Cybersecurity**, with a strong awareness of **secure coding** an
 ---
 
 ## 🧠 About Me
-- 📱 Flutter Developer with hands-on production experience
-- 🧩 Strong focus on scalable architecture & maintainable code
-- 🔐 Cybersecurity graduate with a secure-by-design mindset
-- 🤝 Comfortable working in development teams and collaborating with backend & UI/UX engineers
+- Flutter Developer with real production and internship experience
+- Strong focus on scalable, maintainable, and well-structured systems
+- Cybersecurity graduate with a secure-by-design mindset
+- Comfortable collaborating with backend and UI/UX engineers in team environments
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+- Flutter
+- Dart
 
 ### State Management & Architecture
-![Riverpod](https://img.shields.io/badge/Riverpod-5B5FC7?style=flat)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Structured-success)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-important)
+- Riverpod
+- Bloc / Cubit
+- Provider
+- Clean Architecture
+- MVVM
+- SOLID Principles
 
 ### Backend & APIs
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-purple)
-![CQRS](https://img.shields.io/badge/CQRS-Pattern-informational)
+- ASP.NET Core Web API
+- REST APIs
+- JSON
+- JWT Authentication
+- CQRS
+- Postman (API Testing)
 
 ### Databases & Storage
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Sqflite](https://img.shields.io/badge/Sqflite-Local%20DB-lightgrey)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+- Firebase Authentication
+- Firestore
+- Firebase Storage
+- Sqflite
+- Shared Preferences
+- SQL Server
 
-### Security
-![Secure Coding](https://img.shields.io/badge/Secure%20Coding-By%20Design-critical)
-![OWASP](https://img.shields.io/badge/OWASP-API%20Security-red)
-![Encryption](https://img.shields.io/badge/Encryption-Data%20Protection-blue)
+### Security Practices
+- Secure Coding
+- OWASP Top 10 API Security
+- Encryption
+- Input Validation
+
+### Tools & Platforms
+- Git
+- GitHub
+- Google Play Console
+- AdMob
+- Android Studio
+- VS Code
+- Visual Studio
+
+### Programming Languages
+- Dart
+- C#
+- Familiar with: Python, Java, HTML, CSS
 
 ---
 
@@ -55,34 +77,49 @@ Background in **Cybersecurity**, with a strong awareness of **secure coding** an
 
 - Role-based system (Client / Freelancer / Admin)
 - Clean Architecture + MVVM with Riverpod
-- Core workflow: Jobs → Proposals → Acceptance → Private Chat
-- Firebase Auth, Firestore, Storage, FCM (real-time streams)
-- Secure navigation, RBAC, and session isolation
+- Core workflow: Jobs → Proposals → Acceptance → Job-Scoped Private Chat
+- Firebase Auth, Firestore, Storage, FCM with real-time streams
+- Secure navigation, RBAC, session isolation, and data isolation
 
-🔗 [View Repository](https://github.com/haneen3312122002/skillora_app)
+🔗 GitHub: https://github.com/haneen3312122002/skillora_app
 
 ---
 
-### 🔹 Secure Adventures Game (Graduation Project)
-- Educational Flutter app focused on cybersecurity awareness for children
-- Covers 5 core security topics with interactive UI/UX
+### 🔹 Secure Adventures Game – Graduation Project
+- End-to-end Flutter application combining education, UI/UX, and secure coding
+- Interactive cybersecurity content covering 5 core security topics for children
 - 🏆 Top 10 – Crown Prince Award  
 - 🏆 3rd Place – National Tech Festival (100+ projects)
 
 ---
 
 ### 🔹 SecuPass – Password Manager App
-- Secure password management using Flutter
-- Local encryption with SQLite
+- Secure password management application built with Flutter
+- Local encryption using SQLite
 - Password breach detection APIs
-- Strong focus on secure coding and data protection
+- Strong focus on data protection and secure coding practices
 
 ---
 
 ### 🔹 H2OMED – Water Reminder App
-- Flutter app with local persistence (Sqflite)
+- Flutter application with local persistence using Sqflite
 - REST API integration
 - Published on Google Play with AdMob monetization
+- UX improvements based on beta user feedback
+
+---
+
+### 🔹 Qatra App – Water Management Solution
+- Flutter UI with Firebase-based authentication and storage
+- 🏆 3rd Place – GJU Green Projects Competition (40+ teams)
+
+---
+
+### 🔹 Portfolio API Backend
+- ASP.NET Core Web API with SQL Server
+- Entity Framework for data access
+- JWT authentication
+- CQRS for scalable backend architecture
 
 ---
 
@@ -108,6 +145,6 @@ GPA: **93.4**
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *add your link*
-- 🌐 Portfolio: *add your link*
+- 💼 LinkedIn: https://www.linkedin.com/in/haneen-khanfar-a22575278
+- 📄 CV: https://drive.google.com/file/d/1EQFscUREjMbd5g2PJy-OBOlDP_RCY6T5/view
 - 📧 Email: haneenkhanfarwork@gmail.com
