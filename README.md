@@ -117,5 +117,5 @@ GPA: **93.4**
 
 ## 🔗 Portfolio & Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/haneen-khanfar-a22575278  
-- 🌐 Portfolio: *add portfolio link here*  
+- 🌐 Portfolio: https://drive.google.com/file/d/1EQFscUREjMbd5g2PJy-OBOlDP_RCY6T5/view?usp=drivesdk
 - 📧 Email: haneenkhanfarwork@gmail.com
